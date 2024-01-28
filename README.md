@@ -1,4 +1,4 @@
-# FantasyFeelings2
+# FantasyFeelings
 ## A site to track sentiment of NFL Players for Fantasy Football purposes!
 
 Ever wondered when to trade or trade for a player in fantasy football? With FantasyFeelings, you can see the current public opinion of any NFL player and use that information to help inform your decision making througout the course of your NFL season!
